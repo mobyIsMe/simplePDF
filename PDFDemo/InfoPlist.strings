@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  PDFDemo
+
+  Created by kiwik on 11/17/15.
+  Copyright © 2015 Kiwik. All rights reserved.
+*/
+
+CFBundleDisplayName = "我的PDF";

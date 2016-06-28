@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3F24E286-71BA-46AF-94AA-5F94B9CEFD2A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PDFDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9235BABECEC0CDCB7D5CDE24FED46B1D79A6A036</key>
+		<string>https://github.com/Loongwoo/PDFDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PDFDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9235BABECEC0CDCB7D5CDE24FED46B1D79A6A036</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Loongwoo/PDFDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9235BABECEC0CDCB7D5CDE24FED46B1D79A6A036</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9235BABECEC0CDCB7D5CDE24FED46B1D79A6A036</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PDFDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
